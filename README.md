@@ -29,7 +29,7 @@ We hope you find these prompts useful and have fun using Claude!
 - [Converts GPT-4-style prompts to Claude3 prompts](#converts-gpt-4-style-prompts-to-claude3-prompts)
 - [Control output format (JSON mode)](#control-output-format-json-mode)
 - [MetaPrompt (official example)](#metaprompt-official-example)
-- [Meta Prompt](#meta-prompt)
+- [Meta Prompt](https://github.com/nordeim/awesome-claude-prompts/blob/main/Master%20Prompt.md)
 - [MBTI Personality Analysis](#mbti-personality-analysis)
 - [Roleplaying](#roleplaying)
 - [DAN for Claude 2](#dan-for-claude-2)
